@@ -1,1 +1,1 @@
-# chatbot-RLHF-PPO
+# AGI PROJECTS
